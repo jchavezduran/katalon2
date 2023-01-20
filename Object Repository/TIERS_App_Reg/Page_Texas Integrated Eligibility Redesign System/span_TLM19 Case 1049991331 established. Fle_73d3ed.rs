@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TLM19 Case 1049991331 established. Fle_73d3ed</name>
+   <tag></tag>
+   <elementGuidId>8c379372-989f-49df-9528-1213229b0e14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='infoSpanClient']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'infoSpanClient' and (text() = 'TLM19: Case 1049991331 established. Flexible Appointment task creation failed.' or . = 'TLM19: Case 1049991331 established. Flexible Appointment task creation failed.') and @ref_element = 'Object Repository/TIERS_App_Reg/Page_Texas Integrated Eligibility Redesign System/iframe_My Alerts_bodyframe']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#infoSpanClient</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b5e622ae-c5fc-4179-9c69-1b6cee03c012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>infoSpanClient</value>
+      <webElementGuid>620494eb-b537-426b-8b28-cdaea8184e2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>infoText</value>
+      <webElementGuid>01efbdc3-b3ca-48e9-9eb2-c8697e500ca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TLM19: Case 1049991331 established. Flexible Appointment task creation failed.</value>
+      <webElementGuid>9026dfa0-f06f-4af4-ac3f-397fc700e3d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;infoSpanClient&quot;)</value>
+      <webElementGuid>3eefe419-0b1c-42dc-a97e-f9a10de4e08a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/TIERS_App_Reg/Page_Texas Integrated Eligibility Redesign System/iframe_My Alerts_bodyframe</value>
+      <webElementGuid>f054d92f-fdc0-4759-9136-e509a400a747</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='infoSpanClient']</value>
+      <webElementGuid>76b3468f-d814-4d83-a186-59469a0c0171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='infoTableClient']/tbody/tr/td/table/tbody/tr/td[2]/span</value>
+      <webElementGuid>6153d12c-3b7f-4b32-9e45-f4149b71a46b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Initiate Interview'])[2]/following::span[1]</value>
+      <webElementGuid>aba441d1-64ee-43b1-91ce-ee8765eaa742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Initiate Interview'])[1]/following::span[2]</value>
+      <webElementGuid>19c6b01e-a760-4e6e-94fc-03cbf8f10bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Initiate Interview'])[3]/preceding::span[4]</value>
+      <webElementGuid>07cc5640-034d-4d8b-b321-0494ff12229b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interview Mode:'])[1]/preceding::span[4]</value>
+      <webElementGuid>946282d1-d617-431c-84f9-7dc142045f78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TLM19: Case 1049991331 established. Flexible Appointment task creation failed.']/parent::*</value>
+      <webElementGuid>df9f1f90-8513-4c75-aebe-418bbfe4455b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/span</value>
+      <webElementGuid>7ee3939a-5963-410b-af89-79f8d7a6ec81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'infoSpanClient' and (text() = 'TLM19: Case 1049991331 established. Flexible Appointment task creation failed.' or . = 'TLM19: Case 1049991331 established. Flexible Appointment task creation failed.')]</value>
+      <webElementGuid>bdaf6a92-216a-4919-a260-772c0d649e2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

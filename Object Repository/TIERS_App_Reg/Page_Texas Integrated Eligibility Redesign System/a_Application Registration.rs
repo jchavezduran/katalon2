@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Application Registration</name>
+   <tag></tag>
+   <elementGuidId>acea4f66-979d-4aeb-91bf-388b6504b416</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dd0']/div[10]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3bdada0b-df29-4fb1-98ab-0d5afe32c1a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript: d.o(17);</value>
+      <webElementGuid>76f26983-5b83-43d6-82cf-7809bc31da08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmouseover</name>
+      <type>Main</type>
+      <value>window.status='Application Registration';return true;</value>
+      <webElementGuid>6bc18956-2b39-4681-9468-cda43d68d188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmouseout</name>
+      <type>Main</type>
+      <value>window.status='';return true;</value>
+      <webElementGuid>6be80f89-761e-45b3-80f9-94cde380e151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>node</value>
+      <webElementGuid>6dc63449-638e-418b-afc5-fa416de69e45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Application Registration</value>
+      <webElementGuid>024a39fe-2290-419d-b164-348df30a6008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Application Registration</value>
+      <webElementGuid>6ae96466-fcfd-492f-a7f3-b54808289afa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dd0&quot;)/div[@class=&quot;leftNavTreeNode&quot;]/a[@class=&quot;node&quot;]</value>
+      <webElementGuid>45f7998a-57b3-4bc4-a5b6-4e639a8b1399</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/TIERS_App_Reg/Page_Texas Integrated Eligibility Redesign System/iframe_This                         is an I_4f5493</value>
+      <webElementGuid>af681def-8fc9-4c49-85ca-46462c8e7209</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dd0']/div[10]/a[2]</value>
+      <webElementGuid>0bdc9748-4392-49f4-8867-99d68f9fe6f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Application Registration')]</value>
+      <webElementGuid>e68c854b-e98c-4a60-a917-7c3b509c8cc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SS Change Request'])[1]/following::a[3]</value>
+      <webElementGuid>49a11062-68ac-497e-a517-911de26ea998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Application Registration']/parent::*</value>
+      <webElementGuid>2ab632e4-1a9e-4c14-bc13-c9a51b89bb93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript: d.o(17);')])[2]</value>
+      <webElementGuid>19f11fe9-14f7-4d46-b37a-93d56f72f0ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/a[2]</value>
+      <webElementGuid>e0399d41-5683-4c08-85ea-d5df20ac9618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript: d.o(17);' and @title = 'Application Registration' and (text() = 'Application Registration' or . = 'Application Registration')]</value>
+      <webElementGuid>1abbe1fb-1a6d-404b-8151-d8b0f007db3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

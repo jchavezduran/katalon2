@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_WARNING_benefitsImg</name>
+   <tag></tag>
+   <elementGuidId>c07ebfa5-b714-4c6a-860e-9c7e7cca8fa1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='hhsc benefits']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.benefitsImg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6e709964-c7cb-470f-9a31-cc71d90e345d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>benefitsImg</value>
+      <webElementGuid>67216dc6-4e73-4835-a89a-b3aa534799ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/header_main_img.gif</value>
+      <webElementGuid>2069c280-5e1a-4d16-aa58-ccf21b37cd24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>hhsc benefits</value>
+      <webElementGuid>7b65c60c-caf6-4e1a-bc6e-c1bc4456b540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;nav-wrapper&quot;]/nav[@class=&quot;navbar&quot;]/img[@class=&quot;benefitsImg&quot;]</value>
+      <webElementGuid>ea68f9fa-123c-4704-b9e3-245d4411f0f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='hhsc benefits']</value>
+      <webElementGuid>737d421d-f284-468b-bd8e-6d2cc6649f66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img[2]</value>
+      <webElementGuid>51dbc49f-0884-4d4c-9498-05b592a4d152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/header_main_img.gif' and @alt = 'hhsc benefits']</value>
+      <webElementGuid>aa739dc0-3429-41ce-97e7-0cd60d8f9235</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
