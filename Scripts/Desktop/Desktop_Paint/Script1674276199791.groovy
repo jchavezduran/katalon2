@@ -23,4 +23,4 @@ Windows.click(findWindowsObject('Object Repository/WindowsTest/Paint/Button'))
 
 Windows.closeApplication()
 
-
+ 
