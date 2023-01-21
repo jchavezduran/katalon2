@@ -25,6 +25,8 @@ WebUI.waitForElementPresent(findTestObject('Object Repository/Google/Page_Google
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Google/Page_Google/span_Im Feeling Generous'), 0)
 
+WebUI.takeFullPageScreenshotAsCheckpoint('GOOGLE')
+
 WebUI.setText(findTestObject('Object Repository/Google/Page_Google/input__q'), 'google')
 
 WebUI.sendKeys(findTestObject('Object Repository/Google/Page_Google/input__q'), Keys.chord(Keys.ENTER))
@@ -32,7 +34,4 @@ WebUI.sendKeys(findTestObject('Object Repository/Google/Page_Google/input__q'), 
 WebUI.click(findTestObject('Object Repository/Google/Page_google - Google Search/a_Account'))
 
 WebUI.closeBrowser()
-
-
-
 
