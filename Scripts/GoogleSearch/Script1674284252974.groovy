@@ -33,5 +33,7 @@ WebUI.sendKeys(findTestObject('Object Repository/Google/Page_Google/input__q'), 
 
 WebUI.click(findTestObject('Object Repository/Google/Page_google - Google Search/a_Account'))
 
+WebUI.takeScreenshot()
+ 
 WebUI.closeBrowser()
 
