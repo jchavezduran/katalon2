@@ -285,7 +285,7 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>da6bc870-b2c2-4151-96ad-176d18202c47</guid>
+      <guid>d0c7c04e-facf-4b8b-b194-c430ae41a8ae</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TIERS/App_Reg - 040</testCaseId>
