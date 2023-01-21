@@ -15,7 +15,7 @@
       <guid>1615e9a9-24e0-4737-87c2-222da6ac39b8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Desktop/Desktop_Notepad</testCaseId>
+      <testCaseId>Test Cases/Desktop_Notepad</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
