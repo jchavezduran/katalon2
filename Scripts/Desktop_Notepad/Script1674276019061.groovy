@@ -23,6 +23,8 @@ Windows.setText(findWindowsObject('Object Repository/WindowsTest/Edit'), 'Josue 
 
 Windows.sendKeys(findWindowsObject('Object Repository/WindowsTest/Edit'), Keys.chord(Keys.ENTER))
 
+WebUI.takeScreenshot()
+
 Windows.closeApplication()
 
 Windows.click(findWindowsObject('Object Repository/WindowsTest/Button'))

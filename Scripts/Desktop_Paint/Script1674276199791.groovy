@@ -21,6 +21,8 @@ Windows.startApplicationWithTitle('C:\\Windows\\System32\\mspaint.exe', '')
 
 Windows.click(findWindowsObject('Object Repository/WindowsTest/Paint/Button'))
 
+WebUI.takeScreenshot()
+
 Windows.closeApplication()
 
  
