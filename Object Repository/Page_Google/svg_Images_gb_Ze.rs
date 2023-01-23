@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>5c9e7486-bc22-4353-a0b4-30b946e46d59</webElementGuid>
+      <webElementGuid>15dc458d-d7f6-4c12-ad61-5e7e4ff7a285</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>gb_Ze</value>
-      <webElementGuid>379deaf9-518d-4cf5-a72a-23ff7a3db5f2</webElementGuid>
+      <webElementGuid>7190e8fa-3fe3-425d-b57c-ae7207334eed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d0f34b5d-c120-41b7-a702-8ded93b96944</webElementGuid>
+      <webElementGuid>d44c7da0-265f-496e-bba1-efa92bef05ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 24 24</value>
-      <webElementGuid>b8197947-0459-4da5-aebe-00d744cdd4a5</webElementGuid>
+      <webElementGuid>ec4bccc7-9646-48da-a84c-405c038478f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;gbwa&quot;)/div[@class=&quot;gb_Df&quot;]/a[@class=&quot;gb_e&quot;]/svg[@class=&quot;gb_Ze&quot;]</value>
-      <webElementGuid>a95b8e08-072b-4e39-a78b-022884194bfa</webElementGuid>
+      <webElementGuid>380b44fc-a5d1-4026-ae51-10b65d977066</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Images'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>4a83f306-3329-4cc0-9168-3c0faa14c746</webElementGuid>
+      <webElementGuid>d2b3002d-db7b-4fda-8946-7afefccf5277</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Gmail'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>44981761-864d-44da-9877-a361a3872b96</webElementGuid>
+      <webElementGuid>846231bb-13f2-4b1c-b53e-c63981defa71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>369749ba-b7b8-4202-9ff7-6ee9fcb6681f</webElementGuid>
+      <webElementGuid>4ad0e7c9-d624-4cb9-86f7-37faf8c62f17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>c2169a5f-a4d8-446c-89c5-a36fa9dbac62</webElementGuid>
+      <webElementGuid>eb497e59-2ba2-4049-9ec0-c19dddd1216f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

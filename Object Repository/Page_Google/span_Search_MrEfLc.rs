@@ -10,11 +10,15 @@
          <value></value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;SSPGKf&quot;]/div[@class=&quot;T4LgNb eejsDc&quot;]/div[@class=&quot;kFwPee&quot;]/c-wiz[1]/div[@class=&quot;qWuU9c&quot;]/div[@class=&quot;EHzcec eejsDc&quot;]/ul[@class=&quot;LVal7b u4RcUd&quot;]/li[@class=&quot;j1ei8c&quot;]/a[@class=&quot;tX9u1b&quot;]/div[@class=&quot;CgwTDb&quot;]/span[@class=&quot;MrEfLc&quot;][count(. | //*[@ref_element = 'Object Repository/Page_Google/iframe_Sign in_app']) = count(//*[@ref_element = 'Object Repository/Page_Google/iframe_Sign in_app'])]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='yDmH0d']/c-wiz/div/div/c-wiz/div/div/ul/li[3]/a/div/span</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e57ee73f-613f-42da-91f0-aa6661c7718a</webElementGuid>
+      <webElementGuid>18f9c22d-8362-421b-bba1-b084c9bebfd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MrEfLc</value>
-      <webElementGuid>546db682-fff8-4f13-8f12-78d7b983a76d</webElementGuid>
+      <webElementGuid>7c0a15a8-e11c-44b6-8fc5-6b8df0a67d0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;SSPGKf&quot;]/div[@class=&quot;T4LgNb eejsDc&quot;]/div[@class=&quot;kFwPee&quot;]/c-wiz[1]/div[@class=&quot;qWuU9c&quot;]/div[@class=&quot;EHzcec eejsDc&quot;]/ul[@class=&quot;LVal7b u4RcUd&quot;]/li[@class=&quot;j1ei8c&quot;]/a[@class=&quot;tX9u1b&quot;]/div[@class=&quot;CgwTDb&quot;]/span[@class=&quot;MrEfLc&quot;]</value>
-      <webElementGuid>5979ae08-c016-4292-864e-c2f55277999a</webElementGuid>
+      <webElementGuid>34adb5dc-80be-4e64-88fc-a43c261f2223</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_Google/iframe_Sign in_app</value>
-      <webElementGuid>6751d9a8-49f7-47f6-acd3-57ceeeaa783c</webElementGuid>
+      <webElementGuid>865a494c-e6b3-47b3-b082-83a98d9ca4cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yDmH0d']/c-wiz/div/div/c-wiz/div/div/ul/li[3]/a/div/span</value>
-      <webElementGuid>4dc523e0-458e-4178-a2c9-c6f15fb09275</webElementGuid>
+      <webElementGuid>8dc3c5f4-8258-4fb7-b5ae-ad832361f651</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +66,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a/div/span</value>
-      <webElementGuid>899ebf3e-247b-4e87-a23d-e1ce7fcc19a6</webElementGuid>
+      <webElementGuid>964e3f59-e60d-4c19-aa25-822c4efdcd8f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

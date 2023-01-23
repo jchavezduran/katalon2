@@ -17,7 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
 
+WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
 
-WebUI.click(findTestObject('Object Repository/TIERS_App_Reg/Page_Texas Integrated Eligibility Redesign System/input_OngoingPrior Months Coverage_aidRequestSw'))
- 
+WebUI.click(findTestObject('Object Repository/Page_Google/path'))
+
+WebUI.click(findTestObject('Object Repository/Page_Google/span_News_MrEfLc'))
+
+WebUI.click(findTestObject('Object Repository/Page_Gmail/span_Create account'))
+
+WebUI.click(findTestObject('Object Repository/Page_Gmail/span_For my personal use'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create your Google Account/span_Sign in instead'))
+
+WebUI.click(findTestObject('Object Repository/Page_Gmail/span_Sign in'))
+
+WebUI.closeBrowser()
+

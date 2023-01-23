@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>iframe</value>
-      <webElementGuid>6f1b43c0-479d-4d9f-b572-f36fc028e19c</webElementGuid>
+      <webElementGuid>ecd5bb2e-1ae4-4da6-b136-6be98e633602</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>presentation</value>
-      <webElementGuid>cd1103a1-3290-4803-b81a-1c7fb83ac2de</webElementGuid>
+      <webElementGuid>a7f20178-6e3a-4e29-ae88-a5fcc58b083e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>frameborder</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>1fb628b3-7fc5-4ac0-82c7-4589769b10f9</webElementGuid>
+      <webElementGuid>76e41682-9501-46e1-acdb-d1f019d27026</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>scrolling</name>
       <type>Main</type>
       <value>no</value>
-      <webElementGuid>4549f090-50dd-4f4e-869f-6a0474335e9f</webElementGuid>
+      <webElementGuid>a88fc8eb-8893-4608-b0eb-1dcfacf27dc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>app</value>
-      <webElementGuid>bae1dac6-9059-4d81-bc1f-2c3037c45540</webElementGuid>
+      <webElementGuid>15c3749a-4744-4150-927c-4b711116e26d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://ogs.google.com/widget/app/so?origin=https%3A%2F%2Fwww.google.com&amp;cn=app&amp;pid=1&amp;spid=538&amp;hl=en</value>
-      <webElementGuid>95fe52c8-88d8-4559-b5db-26c383ebe09b</webElementGuid>
+      <webElementGuid>9593758f-c529-48c9-92fa-1d9c00ef2012</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;gb&quot;)/div[@class=&quot;gb_2d gb_4a gb_Qd&quot;]/div[4]/iframe[1]</value>
-      <webElementGuid>cd222d54-254d-43c2-8959-a46b8e9e7146</webElementGuid>
+      <webElementGuid>b33b8158-1ea6-4c51-90ca-42bc4110edd4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//iframe[@name='app']</value>
-      <webElementGuid>e34187bd-10f0-4caf-a734-0067dc0c43dc</webElementGuid>
+      <webElementGuid>3a170b8c-01a0-4048-8a65-ac5218de731e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='gb']/div/div[4]/iframe</value>
-      <webElementGuid>2a6323a5-f262-4d0d-b259-6d86339f29e5</webElementGuid>
+      <webElementGuid>0fd41e3d-c6a7-4ebd-bc46-9c6e03b6d7ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/iframe</value>
-      <webElementGuid>f38aa3e5-1f00-467b-bd97-352621e3bc73</webElementGuid>
+      <webElementGuid>88c0aac6-2901-4679-80db-3835602218d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//iframe[@name = 'app' and @src = 'https://ogs.google.com/widget/app/so?origin=https%3A%2F%2Fwww.google.com&amp;cn=app&amp;pid=1&amp;spid=538&amp;hl=en']</value>
-      <webElementGuid>9e1e9eb5-a74c-409c-8ba2-612ea949f7dd</webElementGuid>
+      <webElementGuid>3764f31f-6df9-4bd6-9cb8-49dd3be4334e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
