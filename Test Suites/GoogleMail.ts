@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Google</name>
+   <name>GoogleMail</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>9706cd2b-4983-4daf-a2af-224419e6745c</testSuiteGuid>
+   <testSuiteGuid>01849ac1-fe37-4d7b-9969-df9291ad7ca6</testSuiteGuid>
    <testCaseLink>
-      <guid>c8518156-4571-4e36-aae3-01eb17b08be1</guid>
+      <guid>787063c6-6f13-41b5-af47-e842b6fcc9e7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/GoogleSearch</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>f052d26b-29e5-4711-bdda-56048ad8b97f</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/GoogleMaps-ThingsToDo</testCaseId>
+      <testCaseId>Test Cases/GoogleMail</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
