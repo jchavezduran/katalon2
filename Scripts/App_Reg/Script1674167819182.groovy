@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://idev2s1.hhscie.txaccess.net/tiers/LoginServlet?ACTION=LOGIN')
+WebUI.navigateToUrl('https://itest2s1.hhscie.txaccess.net/tiers/LoginServlet?ACTION=LOGIN')
 
 WebUI.verifyElementText(findTestObject('Object Repository/TIERS_App_Reg/Page_HHSC State Portal Login/img_WARNING_benefitsImg'), 
     '')

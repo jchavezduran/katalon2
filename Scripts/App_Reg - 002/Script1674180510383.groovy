@@ -17,5 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.navigateToUrl('https://idev2s1.hhscie.txaccess.net/tiers/LoginServlet?ACTION=LOGIN')
+WebUI.navigateToUrl('https://itest2s1.hhscie.txaccess.net/tiers/LoginServlet?ACTION=LOGIN')
 
