@@ -19,12 +19,16 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
+WebUI.navigateToUrl('https://www.google.com/')
  
+
 WebUI.delay(2)
+
  
 //WebUI.verifyElementVisible(findTestObject, FailureHandling.STOP_ON_FAILURE)
 //WebUI.verifyElementPresent(findTestObject, 0, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.takeScreenshot()
 
 if (WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Google/div_Google recommends using Chrome'), FailureHandling.OPTIONAL)) {
 	WebUI.click(findTestObject('Object Repository/Page_Google/button_Dont switch'))
@@ -39,10 +43,12 @@ else {
 
 WebUI.click(findTestObject('Object Repository/Page_Google/svg_Images_gb_Ze'))
 
+WebUI.takeScreenshot()
+
 WebUI.click(findTestObject('Object Repository/Page_Google/span_Search_MrEfLc'))
 
 WebUI.delay(4)
-
+ 
 WebUI.takeScreenshot()
 
 WebUI.setText(findTestObject('Object Repository/Page_Google Maps/input_Search Google Maps_q'), 'Texas')
