@@ -45,7 +45,9 @@ WebUI.click(findTestObject('Object Repository/Page_Google/svg_Images_gb_Ze'))
 
 WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('Object Repository/Page_Google/span_Search_MrEfLc'))
+//WebUI.click(findTestObject('Object Repository/Page_Google/span_Search_MrEfLc'))
+
+WebUI.navigateToUrl('https://www.google.com/maps')
 
 WebUI.delay(4)
  
