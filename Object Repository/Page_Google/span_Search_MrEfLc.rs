@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Search_MrEfLc</name>
+   <tag></tag>
+   <elementGuidId>ace4929d-7da3-4add-a1e7-0d55ba614eb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yDmH0d']/c-wiz/div/div/c-wiz/div/div/ul/li[3]/a/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e57ee73f-613f-42da-91f0-aa6661c7718a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MrEfLc</value>
+      <webElementGuid>546db682-fff8-4f13-8f12-78d7b983a76d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;SSPGKf&quot;]/div[@class=&quot;T4LgNb eejsDc&quot;]/div[@class=&quot;kFwPee&quot;]/c-wiz[1]/div[@class=&quot;qWuU9c&quot;]/div[@class=&quot;EHzcec eejsDc&quot;]/ul[@class=&quot;LVal7b u4RcUd&quot;]/li[@class=&quot;j1ei8c&quot;]/a[@class=&quot;tX9u1b&quot;]/div[@class=&quot;CgwTDb&quot;]/span[@class=&quot;MrEfLc&quot;]</value>
+      <webElementGuid>5979ae08-c016-4292-864e-c2f55277999a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Google/iframe_Sign in_app</value>
+      <webElementGuid>6751d9a8-49f7-47f6-acd3-57ceeeaa783c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yDmH0d']/c-wiz/div/div/c-wiz/div/div/ul/li[3]/a/div/span</value>
+      <webElementGuid>4dc523e0-458e-4178-a2c9-c6f15fb09275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/div/span</value>
+      <webElementGuid>899ebf3e-247b-4e87-a23d-e1ce7fcc19a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Things to do</name>
+   <tag></tag>
+   <elementGuidId>4f6e6dc0-c483-4071-9285-42cbf6a670bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='assistive-chips']/div/div/div/div/div/div/div/div/div[5]/div[2]/div[3]/button/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b1411e49-f4c9-4fd3-8cb8-9f2dcf2ed5d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jstcache</name>
+      <type>Main</type>
+      <value>857</value>
+      <webElementGuid>eaa7e064-558a-4d01-8cc7-66d0eb33be06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uEubGf fontTitleSmall</value>
+      <webElementGuid>0ca277d4-b24b-4ccc-bda9-0fe3e1661da0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsan</name>
+      <type>Main</type>
+      <value>7.uEubGf,7.fontTitleSmall</value>
+      <webElementGuid>e3653c38-ae54-475f-a474-0cce8917af4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Things to do</value>
+      <webElementGuid>ac337435-7224-4d51-a4bb-90795f921143</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;assistive-chips&quot;)/div[@class=&quot;ZhtFke&quot;]/div[@class=&quot;Vo5ZAe&quot;]/div[@class=&quot;k7jAl lJ3Kh lsLI2d miFGmb&quot;]/div[@class=&quot;e07Vkf kA9KIf&quot;]/div[@class=&quot;aIFcqe&quot;]/div[@class=&quot;m6QErb WNBkOb&quot;]/div[@class=&quot;UV9Ngc m6QErb&quot;]/div[@class=&quot;fp2VUc&quot;]/div[@class=&quot;rHNip cRLbXd&quot;]/div[@class=&quot;dryRY&quot;]/div[@class=&quot;KNfEk Rqu0ae&quot;]/button[@class=&quot;e2moi&quot;]/span[@class=&quot;tXNTee L6Bbsd T7HQDc&quot;]/span[@class=&quot;uEubGf fontTitleSmall&quot;]</value>
+      <webElementGuid>78aee81d-86cc-453f-a197-533b78bd44ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='assistive-chips']/div/div/div/div/div/div/div/div/div[5]/div[2]/div[3]/button/span/span</value>
+      <webElementGuid>0920f73b-3c5f-47e1-8409-bbcb1194ea41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotels'])[1]/following::span[3]</value>
+      <webElementGuid>d5810a90-0ebb-437c-827b-8f84ae86b921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restaurants'])[1]/following::span[6]</value>
+      <webElementGuid>0c49a812-e9df-4a7b-95ba-8409a77b0de6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Museums'])[1]/preceding::span[2]</value>
+      <webElementGuid>ef10b26d-4a13-47be-a5d6-b1b5b70267a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transit'])[1]/preceding::span[5]</value>
+      <webElementGuid>5cd9b325-9068-490a-9c2c-1427420c1f93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Things to do']/parent::*</value>
+      <webElementGuid>4cc073a9-0485-462f-9c36-aa837da13cf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span/span</value>
+      <webElementGuid>641a9466-52c1-4808-b5ae-6451d82fa958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Things to do' or . = 'Things to do')]</value>
+      <webElementGuid>144a5cf9-4449-4091-8b95-f614c5da2942</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
