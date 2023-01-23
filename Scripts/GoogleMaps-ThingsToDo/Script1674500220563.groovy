@@ -20,7 +20,7 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
-
+ 
 WebUI.delay(2)
  
 //WebUI.verifyElementVisible(findTestObject, FailureHandling.STOP_ON_FAILURE)
