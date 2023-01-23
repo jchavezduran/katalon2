@@ -88,6 +88,8 @@ if (WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Gmail/span
     println('---------------------- Element not found. ---------------------- ')
 }
 
+WebUI.takeScreenshot()
+
 WebUI.closeBrowser()
 
 

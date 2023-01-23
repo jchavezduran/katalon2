@@ -41,6 +41,10 @@ WebUI.click(findTestObject('Object Repository/Page_Google/svg_Images_gb_Ze'))
 
 WebUI.click(findTestObject('Object Repository/Page_Google/span_Search_MrEfLc'))
 
+WebUI.delay(4)
+
+WebUI.takeScreenshot()
+
 WebUI.setText(findTestObject('Object Repository/Page_Google Maps/input_Search Google Maps_q'), 'Texas')
 
 WebUI.click(findTestObject('Object Repository/Page_Google Maps/button_Menu_searchbox-searchbutton'))
