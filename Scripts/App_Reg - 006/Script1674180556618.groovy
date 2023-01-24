@@ -17,6 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.takeScreenshot()
+
 WebUI.click(findTestObject('Object Repository/TIERS_App_Reg/Page_HHSC State Portal Login/input_Forgot Password_loginButton'))
 
  

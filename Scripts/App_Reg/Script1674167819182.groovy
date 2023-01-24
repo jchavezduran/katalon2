@@ -26,6 +26,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/TIERS_App_Reg/Page_HHS
 
 WebUI.setText(findTestObject('Object Repository/TIERS_App_Reg/Page_HHSC State Portal Login/input_WARNING_username'), 'user3000')
 
+WebUI.takeScreenshot()
+
 WebUI.setEncryptedText(findTestObject('Object Repository/TIERS_App_Reg/Page_HHSC State Portal Login/input__password'), 'IQrDBZHQC/zUTWs5s+yhgg==')
 
 WebUI.click(findTestObject('Object Repository/TIERS_App_Reg/Page_HHSC State Portal Login/input_Forgot Password_loginButton'))
@@ -33,12 +35,16 @@ WebUI.click(findTestObject('Object Repository/TIERS_App_Reg/Page_HHSC State Port
 WebUI.verifyElementText(findTestObject('Object Repository/TIERS_App_Reg/Page_Texas Integrated Eligibility Redesign System/a_TIERS Home'), 
     'TIERS Home')
 
+WebUI.takeScreenshot()
+
 WebUI.click(findTestObject('Object Repository/TIERS_App_Reg/Page_Texas Integrated Eligibility Redesign System/a_Application Registration'))
 
 WebUI.click(findTestObject('Object Repository/TIERS_App_Reg/Page_Texas Integrated Eligibility Redesign System/a_Register an Application'))
 
 WebUI.setText(findTestObject('Object Repository/TIERS_App_Reg/Page_Texas Integrated Eligibility Redesign System/input__monthdateReceived'), 
     '01')
+
+WebUI.takeScreenshot()
 
 WebUI.setText(findTestObject('Object Repository/TIERS_App_Reg/Page_Texas Integrated Eligibility Redesign System/input__datedateReceived'), 
     '01')
