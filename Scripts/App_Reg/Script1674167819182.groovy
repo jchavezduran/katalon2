@@ -181,7 +181,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/TIERS_App_Reg/Page_Tex
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/TIERS_App_Reg/Page_Texas Integrated Eligibility Redesign System/select_NO YES_1_2'), 
     'N', true)
-
+ 
 WebUI.selectOptionByValue(findTestObject('Object Repository/TIERS_App_Reg/Page_Texas Integrated Eligibility Redesign System/select_NO YES_1_2_3'), 
     'Y', true)
 

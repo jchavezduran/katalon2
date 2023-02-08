@@ -24,7 +24,7 @@ WebUI.navigateToUrl('https://www.google.com/')
 
 WebUI.delay(2)
 
- 
+
 //WebUI.verifyElementVisible(findTestObject, FailureHandling.STOP_ON_FAILURE)
 //WebUI.verifyElementPresent(findTestObject, 0, FailureHandling.STOP_ON_FAILURE)
 
