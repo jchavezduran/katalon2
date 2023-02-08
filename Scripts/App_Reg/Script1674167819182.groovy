@@ -188,7 +188,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/TIERS_App_Reg/Page_T
 WebUI.click(findTestObject('Object Repository/TIERS_App_Reg/Page_Texas Integrated Eligibility Redesign System/input_Do you wish to establish as a new ind_97d94b'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/TIERS_App_Reg/Page_Texas Integrated Eligibility Redesign System/label_Register Individual - Summary'), 
-    'Register Individual - Summary')
+    'Register Individual - Summary') 
 
 WebUI.click(findTestObject('Object Repository/TIERS_App_Reg/Page_Texas Integrated Eligibility Redesign System/input_E-mail address_actionButton4'))
 
