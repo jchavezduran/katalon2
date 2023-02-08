@@ -45,7 +45,7 @@ WebUI.setText(findTestObject('Object Repository/TIERS_App_Reg/Page_Texas Integra
     '01')
 
 WebUI.takeScreenshot()
-
+ 
 WebUI.setText(findTestObject('Object Repository/TIERS_App_Reg/Page_Texas Integrated Eligibility Redesign System/input__datedateReceived'), 
     '01')
 
