@@ -6,5 +6,46 @@
    <delayBetweenInstances>0</delayBetweenInstances>
    <executionMode>SEQUENTIAL</executionMode>
    <maxConcurrentInstances>8</maxConcurrentInstances>
-   <testSuiteRunConfigurations/>
+   <testSuiteRunConfigurations>
+      <TestSuiteRunConfiguration>
+         <configuration>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </configuration>
+         <runEnabled>true</runEnabled>
+         <testSuiteEntity>Test Suites/New Test Suite</testSuiteEntity>
+      </TestSuiteRunConfiguration>
+      <TestSuiteRunConfiguration>
+         <configuration>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </configuration>
+         <runEnabled>true</runEnabled>
+         <testSuiteEntity>Test Suites/GoogleSearch</testSuiteEntity>
+      </TestSuiteRunConfiguration>
+      <TestSuiteRunConfiguration>
+         <configuration>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </configuration>
+         <runEnabled>true</runEnabled>
+         <testSuiteEntity>Test Suites/GoogleMaps_ThingsToDo</testSuiteEntity>
+      </TestSuiteRunConfiguration>
+      <TestSuiteRunConfiguration>
+         <configuration>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </configuration>
+         <runEnabled>true</runEnabled>
+         <testSuiteEntity>Test Suites/GoogleMail</testSuiteEntity>
+      </TestSuiteRunConfiguration>
+   </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
